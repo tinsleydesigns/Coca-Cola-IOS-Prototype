@@ -1,3 +1,8 @@
+# The Goal
+The current Coca-Cola app has bulky sections that take up a lot of screen real estate, which means less content to fit onto the screen and difficult navigation. The app also lacks product information and accessibility- there's nowhere to simply view the products they offer. Overall, the app is a clunky news article app that is not user-friendly and limits content consumption.
+
+The goal is to change the structure of the interface but adding more categories, menus, filters, intuitive flows, and feedback loops.
+
 # Coca-Cola-IOS-Prototype
 UI/UX Coca-Cola Prototype for IOS Application
 
